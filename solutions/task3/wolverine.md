@@ -1,0 +1,3 @@
+| wolverine | d&d_hill_giant | d&d_treant |
+| --- | --- | --- |
+| MEX-Headquarter | AD | AD |

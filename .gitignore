@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
+Option1_Excel/
+Option2_Tab_Delimited_Text/
+.vscode/
 
 # Distribution / packaging
 .Python

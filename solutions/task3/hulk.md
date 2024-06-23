@@ -1,0 +1,17 @@
+| hulk | d&d_lich |
+| --- | --- |
+| NOR-Headquarter | H |
+| ARG-Headquarter | H |
+| BRA-Headquarter | H |
+| COL-Headquarter | H |
+| TUR-Headquarter | H |
+| US-Headquarter | H |
+| NLD-Headquarter | H |
+| UAE-Headquarter | H |
+| IND-Headquarter | H |
+| DE-Headquarter | ADH |
+| UK-Headquarter | H |
+| Ocean-Headquarter | ADH |
+| PAK-Headquarter | H |
+| MEX-Headquarter | H |
+| CAN-Headquarter | H |

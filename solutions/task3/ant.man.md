@@ -1,0 +1,5 @@
+| ant.man | d&d_devil |
+| --- | --- |
+| US-Headquarter | AD |
+| DE-Headquarter | AD |
+| Ocean-Headquarter | AD |

@@ -1,0 +1,3 @@
+| shang-chi | d&d_devil |
+| --- | --- |
+| MEX-Headquarter | AD |

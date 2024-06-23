@@ -1,0 +1,3 @@
+| iron.fist | aliens | d&d_devil | d&d_hill_giant |
+| --- | --- | --- | --- |
+| Aircraft-Headquarter | A | ADH | ADH |

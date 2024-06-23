@@ -1,0 +1,199 @@
+Country Name,Country Code,Aliens,Predators,D&D Monsters,alpha_2,alpha_3,hq_name_x,Aliens_alpha_3,hq_name_y,Predators_alpha_3,hq_name,D&D Monsters_alpha_3
+Afghanistan,afghanistan,PAK-Headquarter,PAK-Headquarter,PAK-Headquarter,AF,AFG,PAK-Headquarter,PAK,PAK-Headquarter,PAK,PAK-Headquarter,PAK
+Albania,albania,DE-Headquarter,DE-Headquarter,DE-Headquarter,AL,ALB,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Algeria,algeria,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,DZ,DZA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Andorra,andorra,DE-Headquarter,DE-Headquarter,DE-Headquarter,AD,AND,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Angola,angola,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,AO,AGO,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Argentina,argentina,ARG-Headquarter,ARG-Headquarter,ARG-Headquarter,AR,ARG,ARG-Headquarter,ARG,ARG-Headquarter,ARG,ARG-Headquarter,ARG
+Australia,australia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,AU,AUS,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Austria,austria,DE-Headquarter,DE-Headquarter,DE-Headquarter,AT,AUT,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Bahrain,bahrain,UAE-Headquarter,UAE-Headquarter,UAE-Headquarter,BH,BHR,UAE-Headquarter,ARE,UAE-Headquarter,ARE,UAE-Headquarter,ARE
+Bangladesh,bangladesh,PAK-Headquarter,PAK-Headquarter,PAK-Headquarter,BD,BGD,PAK-Headquarter,PAK,PAK-Headquarter,PAK,PAK-Headquarter,PAK
+Belgium,belgium,DE-Headquarter,DE-Headquarter,DE-Headquarter,BE,BEL,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Belize,belize,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,BZ,BLZ,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Bermuda,bermuda,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,BM,BMU,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Bhutan,bhutan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BT,BTN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Bolivia,bolivia,BRA-Headquarter,BRA-Headquarter,BRA-Headquarter,,,BRA-Headquarter,BRA,BRA-Headquarter,BRA,BRA-Headquarter,BRA
+Bosnia and Herzegovina,bosnia_and_herzegovina,DE-Headquarter,DE-Headquarter,DE-Headquarter,BA,BIH,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Botswana,botswana,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BW,BWA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Brazil,brazil,BRA-Headquarter,BRA-Headquarter,BRA-Headquarter,BR,BRA,BRA-Headquarter,BRA,BRA-Headquarter,BRA,BRA-Headquarter,BRA
+Brunei,brunei,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Bulgaria,bulgaria,DE-Headquarter,DE-Headquarter,DE-Headquarter,BG,BGR,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Cambodia,cambodia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KH,KHM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Canada,canada,CAN-Headquarter,CAN-Headquarter,CAN-Headquarter,CA,CAN,CAN-Headquarter,CAN,CAN-Headquarter,CAN,CAN-Headquarter,CAN
+Cayman Islands,cayman_islands,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,KY,CYM,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Chile,chile,ARG-Headquarter,ARG-Headquarter,ARG-Headquarter,CL,CHL,ARG-Headquarter,ARG,ARG-Headquarter,ARG,ARG-Headquarter,ARG
+China,china,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,CN,CHN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Colombia,colombia,COL-Headquarter,COL-Headquarter,COL-Headquarter,CO,COL,COL-Headquarter,COL,COL-Headquarter,COL,COL-Headquarter,COL
+Costa Rica,costa_rica,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,CR,CRI,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Croatia,croatia,DE-Headquarter,DE-Headquarter,DE-Headquarter,HR,HRV,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Cyprus,cyprus,DE-Headquarter,DE-Headquarter,DE-Headquarter,CY,CYP,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Czech Republic,czech_republic,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Denmark,denmark,DE-Headquarter,DE-Headquarter,DE-Headquarter,DK,DNK,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Dominican Republic,dominican_republic,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,DO,DOM,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Ecuador,ecuador,COL-Headquarter,COL-Headquarter,COL-Headquarter,EC,ECU,COL-Headquarter,COL,COL-Headquarter,COL,COL-Headquarter,COL
+Egypt,egypt,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,EG,EGY,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+El Salvador,el_salvador,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,SV,SLV,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Estonia,estonia,DE-Headquarter,DE-Headquarter,DE-Headquarter,EE,EST,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Ethiopa,ethiopa,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Finland,finland,DE-Headquarter,DE-Headquarter,DE-Headquarter,FI,FIN,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Germany,germany,DE-Headquarter,DE-Headquarter,DE-Headquarter,DE,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Ghana,ghana,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GH,GHA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Greece,greece,DE-Headquarter,DE-Headquarter,DE-Headquarter,GR,GRC,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Guatemala,guatemala,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,GT,GTM,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Honduras,honduras,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,HN,HND,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Hong Kong,hong_kong,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,HK,HKG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Hungary,hungary,DE-Headquarter,DE-Headquarter,DE-Headquarter,HU,HUN,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Iceland,iceland,DE-Headquarter,DE-Headquarter,DE-Headquarter,IS,ISL,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+India,india,IND-Headquarter,IND-Headquarter,IND-Headquarter,IN,IND,IND-Headquarter,IND,IND-Headquarter,IND,IND-Headquarter,IND
+Indonesia,indonesia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ID,IDN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Iran,iran,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Iraq,iraq,US-Headquarter,US-Headquarter,US-Headquarter,IQ,IRQ,US-Headquarter,USA,US-Headquarter,USA,US-Headquarter,USA
+Ireland,ireland,UK-Headquarter,UK-Headquarter,UK-Headquarter,IE,IRL,UK-Headquarter,GBR,UK-Headquarter,GBR,UK-Headquarter,GBR
+Israel,israel,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,IL,ISR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Italy,italy,DE-Headquarter,DE-Headquarter,DE-Headquarter,IT,ITA,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Jamaica,jamaica,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,JM,JAM,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Japan,japan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,JP,JPN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Jordan,jordan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,JO,JOR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Kasachstan,kasachstan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Kenya,kenya,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KE,KEN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Kuwait,kuwait,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KW,KWT,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Laos,laos,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Latvia,latvia,DE-Headquarter,DE-Headquarter,DE-Headquarter,LV,LVA,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Lebanon,lebanon,DE-Headquarter,DE-Headquarter,DE-Headquarter,LB,LBN,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Lesotho,lesotho,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,LS,LSO,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Libya,libya,DE-Headquarter,DE-Headquarter,DE-Headquarter,LY,LBY,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Lithuania,lithuania,DE-Headquarter,DE-Headquarter,DE-Headquarter,LT,LTU,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Luxemburg,luxemburg,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Macedonia,macedonia,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Malawi,malawi,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MW,MWI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Malaysia,malaysia,US-Headquarter,US-Headquarter,Ocean-Headquarter,MY,MYS,US-Headquarter,USA,US-Headquarter,USA,Ocean-Headquarter,GRL
+Mexico,mexico,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,MX,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Moldova,moldova,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Mongolia,mongolia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MN,MNG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Marocco,marocco,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Mozambique,mozambique,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MZ,MOZ,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Namibia,namibia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NA,NAM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Nepal,nepal,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NP,NPL,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Netherlands,netherlands,NLD-Headquarter,NLD-Headquarter,NLD-Headquarter,NL,NLD,NLD-Headquarter,NLD,NLD-Headquarter,NLD,NLD-Headquarter,NLD
+New Zealand,new_zealand,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NZ,NZL,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Nicaragua,nicaragua,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,NI,NIC,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Nigeria,nigeria,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NG,NGA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Norway,norway,NOR-Headquarter,NOR-Headquarter,NOR-Headquarter,NO,NOR,NOR-Headquarter,NOR,NOR-Headquarter,NOR,NOR-Headquarter,NOR
+Oman,oman,UAE-Headquarter,UAE-Headquarter,UAE-Headquarter,OM,OMN,UAE-Headquarter,ARE,UAE-Headquarter,ARE,UAE-Headquarter,ARE
+Pakistan,pakistan,PAK-Headquarter,PAK-Headquarter,PAK-Headquarter,PK,PAK,PAK-Headquarter,PAK,PAK-Headquarter,PAK,PAK-Headquarter,PAK
+Palestine,palestine,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Panama,panama,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,PA,PAN,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Paraguay,paraguay,ARG-Headquarter,ARG-Headquarter,ARG-Headquarter,PY,PRY,ARG-Headquarter,ARG,ARG-Headquarter,ARG,ARG-Headquarter,ARG
+Peru,peru,COL-Headquarter,COL-Headquarter,COL-Headquarter,PE,PER,COL-Headquarter,COL,COL-Headquarter,COL,COL-Headquarter,COL
+Phillipines,phillipines,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Poland,poland,DE-Headquarter,DE-Headquarter,DE-Headquarter,PL,POL,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Portugal,portugal,DE-Headquarter,DE-Headquarter,DE-Headquarter,PT,PRT,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Puerto Rico,puerto_rico,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,PR,PRI,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Qatar,qatar,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,QA,QAT,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Romania,romania,DE-Headquarter,DE-Headquarter,DE-Headquarter,RO,ROU,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Russia,russia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Saint Vincent,saint_vincent,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,,,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Saudi Arabia,saudi_arabia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SA,SAU,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Serbia,serbia,DE-Headquarter,DE-Headquarter,DE-Headquarter,RS,SRB,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Montenegrp,montenegrp,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Singapore,singapore,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SG,SGP,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Slovak Republic,slovak_republic,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Slovenia,slovenia,DE-Headquarter,DE-Headquarter,DE-Headquarter,SI,SVN,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+South Africa,south_africa,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ZA,ZAF,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+South Korea,south_korea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Spain,spain,DE-Headquarter,DE-Headquarter,DE-Headquarter,ES,ESP,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Sri Lanka,sri_lanka,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,LK,LKA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Sudan,sudan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SD,SDN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Swaziland,swaziland,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Sweden,sweden,DE-Headquarter,DE-Headquarter,DE-Headquarter,SE,SWE,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Switzerland,switzerland,DE-Headquarter,DE-Headquarter,DE-Headquarter,CH,CHE,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Syria,syria,DE-Headquarter,DE-Headquarter,DE-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+Taiwan,taiwan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Tanzania,tanzania,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Thailand,thailand,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TH,THA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Trinidad,trinidad,MEX-Headquarter,MEX-Headquarter,MEX-Headquarter,,,MEX-Headquarter,MEX,MEX-Headquarter,MEX,MEX-Headquarter,MEX
+Tunisia,tunisia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TN,TUN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Turkey,turkey,TUR-Headquarter,TUR-Headquarter,TUR-Headquarter,,,TUR-Headquarter,TUR,TUR-Headquarter,TUR,TUR-Headquarter,TUR
+Turkmenistan,turkmenistan,DE-Headquarter,DE-Headquarter,DE-Headquarter,TM,TKM,DE-Headquarter,DEU,DE-Headquarter,DEU,DE-Headquarter,DEU
+United Arab Emeriates,united_arab_emeriates,UAE-Headquarter,UAE-Headquarter,UAE-Headquarter,,,UAE-Headquarter,ARE,UAE-Headquarter,ARE,UAE-Headquarter,ARE
+Uganda,uganda,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,UG,UGA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+United Kingdom,united_kingdom,UK-Headquarter,UK-Headquarter,UK-Headquarter,GB,GBR,UK-Headquarter,GBR,UK-Headquarter,GBR,UK-Headquarter,GBR
+Ukraine,ukraine,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,UA,UKR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Uruguay,uruguay,ARG-Headquarter,ARG-Headquarter,ARG-Headquarter,UY,URY,ARG-Headquarter,ARG,ARG-Headquarter,ARG,ARG-Headquarter,ARG
+USA,usa,US-Headquarter,US-Headquarter,US-Headquarter,,,US-Headquarter,USA,US-Headquarter,USA,US-Headquarter,USA
+Usbekistan,usbekistan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Venezuela,venezuela,COL-Headquarter,COL-Headquarter,COL-Headquarter,,,COL-Headquarter,COL,COL-Headquarter,COL,COL-Headquarter,COL
+Vietnam,vietnam,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Yemen,yemen,UAE-Headquarter,UAE-Headquarter,UAE-Headquarter,YE,YEM,UAE-Headquarter,ARE,UAE-Headquarter,ARE,UAE-Headquarter,ARE
+Zambia,zambia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ZM,ZMB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Zimbabwe,zimbabwe,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ZW,ZWE,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Armenia,armenia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,AM,ARM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Antigua and Barbuda,antigua_and_barbuda,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,AG,ATG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Azerbaijan,azerbaijan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,AZ,AZE,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Burundi,burundi,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BI,BDI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Benin,benin,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BJ,BEN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Burkina Faso,burkina_faso,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BF,BFA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Bahamas,bahamas,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BS,BHS,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Belarus,belarus,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BY,BLR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Barbados,barbados,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,BB,BRB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Central African Republic,central_african_republic,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,CF,CAF,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Cameroon,cameroon,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,CM,CMR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Comoros,comoros,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KM,COM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Congo,congo,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,CG,COG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Cape Verde,cape_verde,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Côte d’Ivoire,cote_divoire,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Cuba,cuba,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,CU,CUB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Djibouti,djibouti,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,DJ,DJI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Dominica,dominica,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,DM,DMA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Eritrea,eritrea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ER,ERI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Fiji,fiji,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,FJ,FJI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+France,france,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,FR,FRA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Gabon,gabon,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GA,GAB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Georgia,georgia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GE,GEO,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Guinea,guinea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GN,GIN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Gambia,gambia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GM,GMB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Guinea-Bissau,guinea-bissau,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GW,GNB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Equatorial Guinea,equatorial_guinea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GQ,GNQ,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Grenada,grenada,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GD,GRD,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Guyana,guyana,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,GY,GUY,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Haiti,haiti,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,HT,HTI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Kyrgyzstan,kyrgyzstan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KG,KGZ,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Kiribati,kiribati,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KI,KIR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Saint Kitts and Nevis,saint_kitts_and_nevis,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,KN,KNA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Liberia,liberia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,LR,LBR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Saint Lucia,saint_lucia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,LC,LCA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Liechtenstein,liechtenstein,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,LI,LIE,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Monaco,monaco,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MC,MCO,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Madagascar,madagascar,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MG,MDG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Maldives,maldives,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MV,MDV,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Micronesia,micronesia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Marshall Islands,marshall_islands,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MH,MHL,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Mali,mali,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ML,MLI,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Malta,malta,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MT,MLT,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Myanmar,myanmar,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MM,MMR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Mauritania,mauritania,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MR,MRT,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Mauritius,mauritius,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,MU,MUS,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Niger,niger,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NE,NER,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+North Korea,north_korea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Nauru,nauru,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,NR,NRU,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Palau,palau,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,PW,PLW,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Papua New Guinea,papua_new_guinea,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,PG,PNG,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Rwanda,rwanda,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,RW,RWA,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Senegal,senegal,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SN,SEN,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Solomon Islands,solomon_islands,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SB,SLB,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Sierra Leone,sierra_leone,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SL,SLE,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+San Marino,san_marino,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SM,SMR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Somalia,somalia,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SO,SOM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Sao Tome and Principe,sao_tome_and_principe,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,ST,STP,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Suriname,suriname,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SR,SUR,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Seychelles,seychelles,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,SC,SYC,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Chad,chad,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TD,TCD,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Togo,togo,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TG,TGO,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Timor Leste,timor_leste,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,,,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Tajikistan,tajikistan,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TJ,TJK,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Tonga,tonga,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TO,TON,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Tuvalu,tuvalu,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,TV,TUV,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Vanuatu,vanuatu,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,VU,VUT,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Samoa,samoa,DE-Headquarter,DE-Headquarter,Ocean-Headquarter,WS,WSM,DE-Headquarter,DEU,DE-Headquarter,DEU,Ocean-Headquarter,GRL
+Franconia (secret base),franconia,Aircraft-Headquarter,Aircraft-Headquarter,Aircraft-Headquarter,,,Aircraft-Headquarter,RUS,Aircraft-Headquarter,RUS,Aircraft-Headquarter,RUS
