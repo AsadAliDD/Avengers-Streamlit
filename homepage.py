@@ -33,7 +33,7 @@ def filter_data(country,country_code,role,invaders):
                           & (country['Role']==role) 
                           & (country['Invader_Species']==invaders)]
     try:
-        st.text(f'Email: {data["Email"].iloc[0]}')
+        st.sidebar.text(f'Email: {data["Email"].iloc[0]}')
     except Exception as e:
         st.text("No Hero Found")
         print (f"Exception: {e}")
@@ -96,8 +96,11 @@ def gen_graphs(country,country_hq_iso):
 country,lov_country_code,lov_role,lov_invaders,country_hq_iso = read_data()
 if(GRAPHS): 
     gen_graphs(country,country_hq_iso)
-country_code=option = st.selectbox("Select Country Code",lov_country_code,index=None)
-role=option = st.selectbox("Select Country Code",lov_role,index=None)
-invaders=option = st.selectbox("Select Country Code",lov_invaders,index=None)
+
+
+st.sidebar.title("Find Your Hero")
+country_code = st.sidebar.selectbox("Select Country Code",lov_country_code,index=None)
+role = st.sidebar.selectbox("Select Country Code",lov_role,index=None)
+invaders = st.sidebar.selectbox("Select Invader",lov_invaders,index=None)
 data=filter_data(country,country_code,role,invaders)
 st.dataframe(data)

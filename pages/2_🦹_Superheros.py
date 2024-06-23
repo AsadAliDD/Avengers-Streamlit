@@ -55,12 +55,13 @@ def main():
     superhero_lov = get_superheroes()
     superhero=st.selectbox("Select Avenger",superhero_lov,index=None)
     if superhero:
+
         st.text(f"Selected Superhero: {superhero}")
         superhero_data=read_superhero_data(superhero)
         st.table(superhero_data)
         superhero_data_mock=gen_mock_data(superhero_data)
 
-        hq=st.selectbox("Select Headquarters",superhero_data_mock['headquarters'].unique(),index=None)
-        invader=st.selectbox("Select Enemy",superhero_data_mock['enemy_type'].unique(),index=None)
+        hq=st.sidebar.selectbox("Select Headquarters",superhero_data_mock['headquarters'].unique(),index=None)
+        invader=st.sidebar.selectbox("Select Enemy",superhero_data_mock['enemy_type'].unique(),index=None)
         gen_plot(superhero_data_mock,hq,invader)
 main()
